@@ -1,2 +1,4 @@
 # Shwet-Demo
-this is my first repositries.
+This is my first repositry.
+<br>
+Author-Shwet Priyam.
